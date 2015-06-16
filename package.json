@@ -1,0 +1,23 @@
+{
+  "name": "typed-qs",
+  "version": "0.1.0",
+  "description": "URL query string with support of boolean, number and null.",
+  "main": "typedQs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fenivana/typedQs.git"
+  },
+  "keywords": [
+    "query",
+    "string"
+  ],
+  "author": "Jiang Fengming <fenix@noindoin.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fenivana/typedQs/issues"
+  },
+  "homepage": "https://github.com/fenivana/typedQs#readme"
+}
